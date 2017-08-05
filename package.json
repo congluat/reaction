@@ -150,7 +150,8 @@
   },
   "babel": {
     "plugins": [
-      "lodash", [
+      "lodash",
+      [
         "module-resolver",
         {
           "root": [
